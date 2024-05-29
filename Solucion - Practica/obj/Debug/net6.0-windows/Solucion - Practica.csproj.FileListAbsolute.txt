@@ -1,0 +1,88 @@
+D:\Tecnicatura universitaria en programación\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - Practica\Solucion - Practica\bin\Debug\net6.0-windows\Solucion - Practica.exe
+D:\Tecnicatura universitaria en programación\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - Practica\Solucion - Practica\bin\Debug\net6.0-windows\Solucion - Practica.deps.json
+D:\Tecnicatura universitaria en programación\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - Practica\Solucion - Practica\bin\Debug\net6.0-windows\Solucion - Practica.runtimeconfig.json
+D:\Tecnicatura universitaria en programación\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - Practica\Solucion - Practica\bin\Debug\net6.0-windows\Solucion - Practica.dll
+D:\Tecnicatura universitaria en programación\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - Practica\Solucion - Practica\bin\Debug\net6.0-windows\Solucion - Practica.pdb
+D:\Tecnicatura universitaria en programación\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - Practica\Solucion - Practica\obj\Debug\net6.0-windows\Solucion___Practica.Form1.resources
+D:\Tecnicatura universitaria en programación\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - Practica\Solucion - Practica\obj\Debug\net6.0-windows\Solucion - Practica.csproj.GenerateResource.cache
+D:\Tecnicatura universitaria en programación\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - Practica\Solucion - Practica\obj\Debug\net6.0-windows\Solucion - Practica.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tecnicatura universitaria en programación\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - Practica\Solucion - Practica\obj\Debug\net6.0-windows\Solucion - Practica.AssemblyInfoInputs.cache
+D:\Tecnicatura universitaria en programación\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - Practica\Solucion - Practica\obj\Debug\net6.0-windows\Solucion - Practica.AssemblyInfo.cs
+D:\Tecnicatura universitaria en programación\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - Practica\Solucion - Practica\obj\Debug\net6.0-windows\Solucion - Practica.csproj.CoreCompileInputs.cache
+D:\Tecnicatura universitaria en programación\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - Practica\Solucion - Practica\obj\Debug\net6.0-windows\Solucion - Practica.dll
+D:\Tecnicatura universitaria en programación\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - Practica\Solucion - Practica\obj\Debug\net6.0-windows\refint\Solucion - Practica.dll
+D:\Tecnicatura universitaria en programación\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - Practica\Solucion - Practica\obj\Debug\net6.0-windows\Solucion - Practica.pdb
+D:\Tecnicatura universitaria en programación\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - Practica\Solucion - Practica\obj\Debug\net6.0-windows\Solucion - Practica.genruntimeconfig.cache
+D:\Tecnicatura universitaria en programación\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - Practica\Solucion - Practica\obj\Debug\net6.0-windows\ref\Solucion - Practica.dll
+D:\TUP\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - Practica\Solucion - Practica\bin\Debug\net6.0-windows\Solucion - Practica.exe
+D:\TUP\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - Practica\Solucion - Practica\bin\Debug\net6.0-windows\Solucion - Practica.deps.json
+D:\TUP\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - Practica\Solucion - Practica\bin\Debug\net6.0-windows\Solucion - Practica.runtimeconfig.json
+D:\TUP\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - Practica\Solucion - Practica\bin\Debug\net6.0-windows\Solucion - Practica.dll
+D:\TUP\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - Practica\Solucion - Practica\bin\Debug\net6.0-windows\Solucion - Practica.pdb
+D:\TUP\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - Practica\Solucion - Practica\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\TUP\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - Practica\Solucion - Practica\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\TUP\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - Practica\Solucion - Practica\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\TUP\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - Practica\Solucion - Practica\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\TUP\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - Practica\Solucion - Practica\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\TUP\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - Practica\Solucion - Practica\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\TUP\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - Practica\Solucion - Practica\obj\Debug\net6.0-windows\Solucion - Practica.csproj.AssemblyReference.cache
+D:\TUP\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - Practica\Solucion - Practica\obj\Debug\net6.0-windows\Solucion___Practica.Form1.resources
+D:\TUP\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - Practica\Solucion - Practica\obj\Debug\net6.0-windows\Solucion - Practica.csproj.GenerateResource.cache
+D:\TUP\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - Practica\Solucion - Practica\obj\Debug\net6.0-windows\Solucion - Practica.GeneratedMSBuildEditorConfig.editorconfig
+D:\TUP\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - Practica\Solucion - Practica\obj\Debug\net6.0-windows\Solucion - Practica.AssemblyInfoInputs.cache
+D:\TUP\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - Practica\Solucion - Practica\obj\Debug\net6.0-windows\Solucion - Practica.AssemblyInfo.cs
+D:\TUP\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - Practica\Solucion - Practica\obj\Debug\net6.0-windows\Solucion - Practica.csproj.CoreCompileInputs.cache
+D:\TUP\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - Practica\Solucion - Practica\obj\Debug\net6.0-windows\Solucion - Practica.csproj.CopyComplete
+D:\TUP\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - Practica\Solucion - Practica\obj\Debug\net6.0-windows\Solucion - Practica.dll
+D:\TUP\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - Practica\Solucion - Practica\obj\Debug\net6.0-windows\refint\Solucion - Practica.dll
+D:\TUP\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - Practica\Solucion - Practica\obj\Debug\net6.0-windows\Solucion - Practica.pdb
+D:\TUP\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - Practica\Solucion - Practica\obj\Debug\net6.0-windows\Solucion - Practica.genruntimeconfig.cache
+D:\TUP\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - Practica\Solucion - Practica\obj\Debug\net6.0-windows\ref\Solucion - Practica.dll
+D:\TUP\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - aPractica\Solucion - Practica\bin\Debug\net6.0-windows\Solucion - Practica.exe
+D:\TUP\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - aPractica\Solucion - Practica\bin\Debug\net6.0-windows\Solucion - Practica.deps.json
+D:\TUP\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - aPractica\Solucion - Practica\bin\Debug\net6.0-windows\Solucion - Practica.runtimeconfig.json
+D:\TUP\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - aPractica\Solucion - Practica\bin\Debug\net6.0-windows\Solucion - Practica.dll
+D:\TUP\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - aPractica\Solucion - Practica\bin\Debug\net6.0-windows\Solucion - Practica.pdb
+D:\TUP\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - aPractica\Solucion - Practica\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\TUP\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - aPractica\Solucion - Practica\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\TUP\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - aPractica\Solucion - Practica\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\TUP\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - aPractica\Solucion - Practica\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\TUP\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - aPractica\Solucion - Practica\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\TUP\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - aPractica\Solucion - Practica\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\TUP\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - aPractica\Solucion - Practica\obj\Debug\net6.0-windows\Solucion - Practica.csproj.AssemblyReference.cache
+D:\TUP\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - aPractica\Solucion - Practica\obj\Debug\net6.0-windows\Solucion___Practica.Form1.resources
+D:\TUP\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - aPractica\Solucion - Practica\obj\Debug\net6.0-windows\Solucion - Practica.csproj.GenerateResource.cache
+D:\TUP\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - aPractica\Solucion - Practica\obj\Debug\net6.0-windows\Solucion - Practica.GeneratedMSBuildEditorConfig.editorconfig
+D:\TUP\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - aPractica\Solucion - Practica\obj\Debug\net6.0-windows\Solucion - Practica.AssemblyInfoInputs.cache
+D:\TUP\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - aPractica\Solucion - Practica\obj\Debug\net6.0-windows\Solucion - Practica.AssemblyInfo.cs
+D:\TUP\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - aPractica\Solucion - Practica\obj\Debug\net6.0-windows\Solucion - Practica.csproj.CoreCompileInputs.cache
+D:\TUP\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - aPractica\Solucion - Practica\obj\Debug\net6.0-windows\Solucion - Practica.csproj.CopyComplete
+D:\TUP\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - aPractica\Solucion - Practica\obj\Debug\net6.0-windows\Solucion - Practica.dll
+D:\TUP\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - aPractica\Solucion - Practica\obj\Debug\net6.0-windows\refint\Solucion - Practica.dll
+D:\TUP\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - aPractica\Solucion - Practica\obj\Debug\net6.0-windows\Solucion - Practica.pdb
+D:\TUP\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - aPractica\Solucion - Practica\obj\Debug\net6.0-windows\Solucion - Practica.genruntimeconfig.cache
+D:\TUP\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - aPractica\Solucion - Practica\obj\Debug\net6.0-windows\ref\Solucion - Practica.dll
+D:\UTN\2do cuatrimestre\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - aPractica\Solucion - Practica\bin\Debug\net6.0-windows\Solucion - Practica.exe
+D:\UTN\2do cuatrimestre\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - aPractica\Solucion - Practica\bin\Debug\net6.0-windows\Solucion - Practica.deps.json
+D:\UTN\2do cuatrimestre\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - aPractica\Solucion - Practica\bin\Debug\net6.0-windows\Solucion - Practica.runtimeconfig.json
+D:\UTN\2do cuatrimestre\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - aPractica\Solucion - Practica\bin\Debug\net6.0-windows\Solucion - Practica.dll
+D:\UTN\2do cuatrimestre\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - aPractica\Solucion - Practica\bin\Debug\net6.0-windows\Solucion - Practica.pdb
+D:\UTN\2do cuatrimestre\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - aPractica\Solucion - Practica\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\UTN\2do cuatrimestre\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - aPractica\Solucion - Practica\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\UTN\2do cuatrimestre\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - aPractica\Solucion - Practica\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\UTN\2do cuatrimestre\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - aPractica\Solucion - Practica\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\UTN\2do cuatrimestre\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - aPractica\Solucion - Practica\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\UTN\2do cuatrimestre\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - aPractica\Solucion - Practica\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\UTN\2do cuatrimestre\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - aPractica\Solucion - Practica\obj\Debug\net6.0-windows\Solucion - Practica.csproj.AssemblyReference.cache
+D:\UTN\2do cuatrimestre\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - aPractica\Solucion - Practica\obj\Debug\net6.0-windows\Solucion___Practica.Form1.resources
+D:\UTN\2do cuatrimestre\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - aPractica\Solucion - Practica\obj\Debug\net6.0-windows\Solucion - Practica.csproj.GenerateResource.cache
+D:\UTN\2do cuatrimestre\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - aPractica\Solucion - Practica\obj\Debug\net6.0-windows\Solucion - Practica.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTN\2do cuatrimestre\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - aPractica\Solucion - Practica\obj\Debug\net6.0-windows\Solucion - Practica.AssemblyInfoInputs.cache
+D:\UTN\2do cuatrimestre\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - aPractica\Solucion - Practica\obj\Debug\net6.0-windows\Solucion - Practica.AssemblyInfo.cs
+D:\UTN\2do cuatrimestre\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - aPractica\Solucion - Practica\obj\Debug\net6.0-windows\Solucion - Practica.csproj.CoreCompileInputs.cache
+D:\UTN\2do cuatrimestre\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - aPractica\Solucion - Practica\obj\Debug\net6.0-windows\Solucion.FD05BAF6.Up2Date
+D:\UTN\2do cuatrimestre\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - aPractica\Solucion - Practica\obj\Debug\net6.0-windows\Solucion - Practica.dll
+D:\UTN\2do cuatrimestre\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - aPractica\Solucion - Practica\obj\Debug\net6.0-windows\refint\Solucion - Practica.dll
+D:\UTN\2do cuatrimestre\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - aPractica\Solucion - Practica\obj\Debug\net6.0-windows\Solucion - Practica.pdb
+D:\UTN\2do cuatrimestre\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - aPractica\Solucion - Practica\obj\Debug\net6.0-windows\Solucion - Practica.genruntimeconfig.cache
+D:\UTN\2do cuatrimestre\Programacion II\Final\1er Parcial\Ordenes - Retiro - Materiales\Solucion - aPractica\Solucion - Practica\obj\Debug\net6.0-windows\ref\Solucion - Practica.dll

@@ -1,0 +1,265 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UTN\\2do cuatrimestre\\Programacion II\\Final\\1er Parcial\\Ordenes - Retiro - Materiales\\Solucion - aPractica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A7D39A6-775B-4953-AA82-643192C264C7}|Solucion - Practica\\Solucion - Practica.csproj|d:\\utn\\2do cuatrimestre\\programacion ii\\final\\1er parcial\\ordenes - retiro - materiales\\solucion - apractica\\solucion - practica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A7D39A6-775B-4953-AA82-643192C264C7}|Solucion - Practica\\Solucion - Practica.csproj|solutionrelative:solucion - practica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A7D39A6-775B-4953-AA82-643192C264C7}|Solucion - Practica\\Solucion - Practica.csproj|d:\\utn\\2do cuatrimestre\\programacion ii\\final\\1er parcial\\ordenes - retiro - materiales\\solucion - apractica\\solucion - practica\\datos\\idao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A7D39A6-775B-4953-AA82-643192C264C7}|Solucion - Practica\\Solucion - Practica.csproj|solutionrelative:solucion - practica\\datos\\idao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A7D39A6-775B-4953-AA82-643192C264C7}|Solucion - Practica\\Solucion - Practica.csproj|D:\\UTN\\2do cuatrimestre\\Programacion II\\Final\\1er Parcial\\Ordenes - Retiro - Materiales\\Solucion - aPractica\\solucion - practica\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A7D39A6-775B-4953-AA82-643192C264C7}|Solucion - Practica\\Solucion - Practica.csproj|solutionrelative:solucion - practica\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A7D39A6-775B-4953-AA82-643192C264C7}|Solucion - Practica\\Solucion - Practica.csproj|D:\\UTN\\2do cuatrimestre\\Programacion II\\Final\\1er Parcial\\Ordenes - Retiro - Materiales\\Solucion - aPractica\\solucion - practica\\datos\\dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A7D39A6-775B-4953-AA82-643192C264C7}|Solucion - Practica\\Solucion - Practica.csproj|solutionrelative:solucion - practica\\datos\\dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A7D39A6-775B-4953-AA82-643192C264C7}|Solucion - Practica\\Solucion - Practica.csproj|D:\\UTN\\2do cuatrimestre\\Programacion II\\Final\\1er Parcial\\Ordenes - Retiro - Materiales\\Solucion - aPractica\\solucion - practica\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A7D39A6-775B-4953-AA82-643192C264C7}|Solucion - Practica\\Solucion - Practica.csproj|solutionrelative:solucion - practica\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A7D39A6-775B-4953-AA82-643192C264C7}|Solucion - Practica\\Solucion - Practica.csproj|D:\\UTN\\2do cuatrimestre\\Programacion II\\Final\\1er Parcial\\Ordenes - Retiro - Materiales\\Solucion - aPractica\\solucion - practica\\servicios\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A7D39A6-775B-4953-AA82-643192C264C7}|Solucion - Practica\\Solucion - Practica.csproj|solutionrelative:solucion - practica\\servicios\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A7D39A6-775B-4953-AA82-643192C264C7}|Solucion - Practica\\Solucion - Practica.csproj|D:\\UTN\\2do cuatrimestre\\Programacion II\\Final\\1er Parcial\\Ordenes - Retiro - Materiales\\Solucion - aPractica\\solucion - practica\\datos\\helperdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A7D39A6-775B-4953-AA82-643192C264C7}|Solucion - Practica\\Solucion - Practica.csproj|solutionrelative:solucion - practica\\datos\\helperdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A7D39A6-775B-4953-AA82-643192C264C7}|Solucion - Practica\\Solucion - Practica.csproj|D:\\UTN\\2do cuatrimestre\\Programacion II\\Final\\1er Parcial\\Ordenes - Retiro - Materiales\\Solucion - aPractica\\solucion - practica\\servicios\\iservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A7D39A6-775B-4953-AA82-643192C264C7}|Solucion - Practica\\Solucion - Practica.csproj|solutionrelative:solucion - practica\\servicios\\iservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A7D39A6-775B-4953-AA82-643192C264C7}|Solucion - Practica\\Solucion - Practica.csproj|D:\\UTN\\2do cuatrimestre\\Programacion II\\Final\\1er Parcial\\Ordenes - Retiro - Materiales\\Solucion - aPractica\\solucion - practica\\dominio\\ordenretiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A7D39A6-775B-4953-AA82-643192C264C7}|Solucion - Practica\\Solucion - Practica.csproj|solutionrelative:solucion - practica\\dominio\\ordenretiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A7D39A6-775B-4953-AA82-643192C264C7}|Solucion - Practica\\Solucion - Practica.csproj|D:\\UTN\\2do cuatrimestre\\Programacion II\\Final\\1er Parcial\\Ordenes - Retiro - Materiales\\Solucion - aPractica\\solucion - practica\\dominio\\detalleorden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A7D39A6-775B-4953-AA82-643192C264C7}|Solucion - Practica\\Solucion - Practica.csproj|solutionrelative:solucion - practica\\dominio\\detalleorden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A7D39A6-775B-4953-AA82-643192C264C7}|Solucion - Practica\\Solucion - Practica.csproj|D:\\UTN\\2do cuatrimestre\\Programacion II\\Final\\1er Parcial\\Ordenes - Retiro - Materiales\\Solucion - aPractica\\solucion - practica\\dominio\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A7D39A6-775B-4953-AA82-643192C264C7}|Solucion - Practica\\Solucion - Practica.csproj|solutionrelative:solucion - practica\\dominio\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A7D39A6-775B-4953-AA82-643192C264C7}|Solucion - Practica\\Solucion - Practica.csproj|D:\\UTN\\2do cuatrimestre\\Programacion II\\Final\\1er Parcial\\Ordenes - Retiro - Materiales\\Solucion - aPractica\\solucion - practica\\datos\\parameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A7D39A6-775B-4953-AA82-643192C264C7}|Solucion - Practica\\Solucion - Practica.csproj|solutionrelative:solucion - practica\\datos\\parameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A7D39A6-775B-4953-AA82-643192C264C7}|Solucion - Practica\\Solucion - Practica.csproj|D:\\UTN\\2do cuatrimestre\\Programacion II\\Final\\1er Parcial\\Ordenes - Retiro - Materiales\\Solucion - aPractica\\solucion - practica\\servicios\\factoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A7D39A6-775B-4953-AA82-643192C264C7}|Solucion - Practica\\Solucion - Practica.csproj|solutionrelative:solucion - practica\\servicios\\factoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A7D39A6-775B-4953-AA82-643192C264C7}|Solucion - Practica\\Solucion - Practica.csproj|D:\\UTN\\2do cuatrimestre\\Programacion II\\Final\\1er Parcial\\Ordenes - Retiro - Materiales\\Solucion - aPractica\\solucion - practica\\servicios\\factoryserviceimp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A7D39A6-775B-4953-AA82-643192C264C7}|Solucion - Practica\\Solucion - Practica.csproj|solutionrelative:solucion - practica\\servicios\\factoryserviceimp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UTN\\2do cuatrimestre\\Programacion II\\Final\\1er Parcial\\Ordenes - Retiro - Materiales\\Solucion - aPractica\\Solucion - Practica\\Program.cs",
+              "RelativeDocumentMoniker": "Solucion - Practica\\Program.cs",
+              "ToolTip": "D:\\UTN\\2do cuatrimestre\\Programacion II\\Final\\1er Parcial\\Ordenes - Retiro - Materiales\\Solucion - aPractica\\Solucion - Practica\\Program.cs",
+              "RelativeToolTip": "Solucion - Practica\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T01:00:49.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\UTN\\2do cuatrimestre\\Programacion II\\Final\\1er Parcial\\Ordenes - Retiro - Materiales\\Solucion - aPractica\\Solucion - Practica\\Form1.cs",
+              "RelativeDocumentMoniker": "Solucion - Practica\\Form1.cs",
+              "ToolTip": "D:\\UTN\\2do cuatrimestre\\Programacion II\\Final\\1er Parcial\\Ordenes - Retiro - Materiales\\Solucion - aPractica\\Solucion - Practica\\Form1.cs",
+              "RelativeToolTip": "Solucion - Practica\\Form1.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T22:58:19.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IDao.cs",
+              "DocumentMoniker": "D:\\UTN\\2do cuatrimestre\\Programacion II\\Final\\1er Parcial\\Ordenes - Retiro - Materiales\\Solucion - aPractica\\Solucion - Practica\\Datos\\IDao.cs",
+              "RelativeDocumentMoniker": "Solucion - Practica\\Datos\\IDao.cs",
+              "ToolTip": "D:\\UTN\\2do cuatrimestre\\Programacion II\\Final\\1er Parcial\\Ordenes - Retiro - Materiales\\Solucion - aPractica\\Solucion - Practica\\Datos\\IDao.cs",
+              "RelativeToolTip": "Solucion - Practica\\Datos\\IDao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T22:58:19.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\UTN\\2do cuatrimestre\\Programacion II\\Final\\1er Parcial\\Ordenes - Retiro - Materiales\\Solucion - aPractica\\Solucion - Practica\\Form1.cs",
+              "RelativeDocumentMoniker": "Solucion - Practica\\Form1.cs",
+              "ToolTip": "D:\\UTN\\2do cuatrimestre\\Programacion II\\Final\\1er Parcial\\Ordenes - Retiro - Materiales\\Solucion - aPractica\\Solucion - Practica\\Form1.cs [Design]",
+              "RelativeToolTip": "Solucion - Practica\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T22:58:20.338Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Servicio.cs",
+              "DocumentMoniker": "D:\\UTN\\2do cuatrimestre\\Programacion II\\Final\\1er Parcial\\Ordenes - Retiro - Materiales\\Solucion - aPractica\\Solucion - Practica\\Servicios\\Servicio.cs",
+              "RelativeDocumentMoniker": "Solucion - Practica\\Servicios\\Servicio.cs",
+              "ToolTip": "D:\\UTN\\2do cuatrimestre\\Programacion II\\Final\\1er Parcial\\Ordenes - Retiro - Materiales\\Solucion - aPractica\\Solucion - Practica\\Servicios\\Servicio.cs",
+              "RelativeToolTip": "Solucion - Practica\\Servicios\\Servicio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T22:58:20.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dao.cs",
+              "DocumentMoniker": "D:\\UTN\\2do cuatrimestre\\Programacion II\\Final\\1er Parcial\\Ordenes - Retiro - Materiales\\Solucion - aPractica\\Solucion - Practica\\Datos\\Dao.cs",
+              "RelativeDocumentMoniker": "Solucion - Practica\\Datos\\Dao.cs",
+              "ToolTip": "D:\\UTN\\2do cuatrimestre\\Programacion II\\Final\\1er Parcial\\Ordenes - Retiro - Materiales\\Solucion - aPractica\\Solucion - Practica\\Datos\\Dao.cs",
+              "RelativeToolTip": "Solucion - Practica\\Datos\\Dao.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAxwCUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T22:58:20.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HelperDao.cs",
+              "DocumentMoniker": "D:\\UTN\\2do cuatrimestre\\Programacion II\\Final\\1er Parcial\\Ordenes - Retiro - Materiales\\Solucion - aPractica\\Solucion - Practica\\Datos\\HelperDao.cs",
+              "RelativeDocumentMoniker": "Solucion - Practica\\Datos\\HelperDao.cs",
+              "ToolTip": "D:\\UTN\\2do cuatrimestre\\Programacion II\\Final\\1er Parcial\\Ordenes - Retiro - Materiales\\Solucion - aPractica\\Solucion - Practica\\Datos\\HelperDao.cs",
+              "RelativeToolTip": "Solucion - Practica\\Datos\\HelperDao.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAswC8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T22:58:20.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IServicio.cs",
+              "DocumentMoniker": "D:\\UTN\\2do cuatrimestre\\Programacion II\\Final\\1er Parcial\\Ordenes - Retiro - Materiales\\Solucion - aPractica\\Solucion - Practica\\Servicios\\IServicio.cs",
+              "RelativeDocumentMoniker": "Solucion - Practica\\Servicios\\IServicio.cs",
+              "ToolTip": "D:\\UTN\\2do cuatrimestre\\Programacion II\\Final\\1er Parcial\\Ordenes - Retiro - Materiales\\Solucion - aPractica\\Solucion - Practica\\Servicios\\IServicio.cs",
+              "RelativeToolTip": "Solucion - Practica\\Servicios\\IServicio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T22:58:20.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrdenRetiro.cs",
+              "DocumentMoniker": "D:\\UTN\\2do cuatrimestre\\Programacion II\\Final\\1er Parcial\\Ordenes - Retiro - Materiales\\Solucion - aPractica\\Solucion - Practica\\Dominio\\OrdenRetiro.cs",
+              "RelativeDocumentMoniker": "Solucion - Practica\\Dominio\\OrdenRetiro.cs",
+              "ToolTip": "D:\\UTN\\2do cuatrimestre\\Programacion II\\Final\\1er Parcial\\Ordenes - Retiro - Materiales\\Solucion - aPractica\\Solucion - Practica\\Dominio\\OrdenRetiro.cs",
+              "RelativeToolTip": "Solucion - Practica\\Dominio\\OrdenRetiro.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAIwAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T22:58:20.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DetalleOrden.cs",
+              "DocumentMoniker": "D:\\UTN\\2do cuatrimestre\\Programacion II\\Final\\1er Parcial\\Ordenes - Retiro - Materiales\\Solucion - aPractica\\Solucion - Practica\\Dominio\\DetalleOrden.cs",
+              "RelativeDocumentMoniker": "Solucion - Practica\\Dominio\\DetalleOrden.cs",
+              "ToolTip": "D:\\UTN\\2do cuatrimestre\\Programacion II\\Final\\1er Parcial\\Ordenes - Retiro - Materiales\\Solucion - aPractica\\Solucion - Practica\\Dominio\\DetalleOrden.cs",
+              "RelativeToolTip": "Solucion - Practica\\Dominio\\DetalleOrden.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAMwBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T22:58:20.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Material.cs",
+              "DocumentMoniker": "D:\\UTN\\2do cuatrimestre\\Programacion II\\Final\\1er Parcial\\Ordenes - Retiro - Materiales\\Solucion - aPractica\\Solucion - Practica\\Dominio\\Material.cs",
+              "RelativeDocumentMoniker": "Solucion - Practica\\Dominio\\Material.cs",
+              "ToolTip": "D:\\UTN\\2do cuatrimestre\\Programacion II\\Final\\1er Parcial\\Ordenes - Retiro - Materiales\\Solucion - aPractica\\Solucion - Practica\\Dominio\\Material.cs",
+              "RelativeToolTip": "Solucion - Practica\\Dominio\\Material.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T22:58:20.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Parameter.cs",
+              "DocumentMoniker": "D:\\UTN\\2do cuatrimestre\\Programacion II\\Final\\1er Parcial\\Ordenes - Retiro - Materiales\\Solucion - aPractica\\Solucion - Practica\\Datos\\Parameter.cs",
+              "RelativeDocumentMoniker": "Solucion - Practica\\Datos\\Parameter.cs",
+              "ToolTip": "D:\\UTN\\2do cuatrimestre\\Programacion II\\Final\\1er Parcial\\Ordenes - Retiro - Materiales\\Solucion - aPractica\\Solucion - Practica\\Datos\\Parameter.cs",
+              "RelativeToolTip": "Solucion - Practica\\Datos\\Parameter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T22:58:20.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FactoryServiceImp.cs",
+              "DocumentMoniker": "D:\\UTN\\2do cuatrimestre\\Programacion II\\Final\\1er Parcial\\Ordenes - Retiro - Materiales\\Solucion - aPractica\\Solucion - Practica\\Servicios\\FactoryServiceImp.cs",
+              "RelativeDocumentMoniker": "Solucion - Practica\\Servicios\\FactoryServiceImp.cs",
+              "ToolTip": "D:\\UTN\\2do cuatrimestre\\Programacion II\\Final\\1er Parcial\\Ordenes - Retiro - Materiales\\Solucion - aPractica\\Solucion - Practica\\Servicios\\FactoryServiceImp.cs",
+              "RelativeToolTip": "Solucion - Practica\\Servicios\\FactoryServiceImp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T22:58:20.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FactoryService.cs",
+              "DocumentMoniker": "D:\\UTN\\2do cuatrimestre\\Programacion II\\Final\\1er Parcial\\Ordenes - Retiro - Materiales\\Solucion - aPractica\\Solucion - Practica\\Servicios\\FactoryService.cs",
+              "RelativeDocumentMoniker": "Solucion - Practica\\Servicios\\FactoryService.cs",
+              "ToolTip": "D:\\UTN\\2do cuatrimestre\\Programacion II\\Final\\1er Parcial\\Ordenes - Retiro - Materiales\\Solucion - aPractica\\Solucion - Practica\\Servicios\\FactoryService.cs",
+              "RelativeToolTip": "Solucion - Practica\\Servicios\\FactoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T22:58:20.366Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

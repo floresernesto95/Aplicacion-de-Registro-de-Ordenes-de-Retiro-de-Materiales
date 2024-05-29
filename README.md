@@ -1,5 +1,9 @@
 # Aplicación de Registro de Órdenes de Retiro de Materiales
 
+<p align="center">
+  <img src="https://github.com/floresernesto95/Images/blob/main/Aplicacion%20.net%20-%20ordenes.png"/>
+</p>
+
 ## Descripción del Proyecto
 
 Este proyecto es una aplicación completa desarrollada para gestionar las órdenes de retiro de materiales de un depósito industrial. La aplicación está diseñada para cumplir con los requerimientos de manejo y control de inventarios, asegurando la integridad de los datos y la eficiencia en los procesos de retiro de materiales. El proyecto incluye tanto el backend como la base de datos necesaria para operar de manera efectiva.
